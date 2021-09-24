@@ -1,0 +1,1 @@
+https://waylau.gitbooks.io/netty-4-user-guide/content/Getting-Started/Writing-a-Discard-Server.html
